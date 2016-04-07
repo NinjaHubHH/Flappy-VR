@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_MyAssets\Scripts\ObstacleManager.cs">
+    <Files>
+      <File FileName="Assets\_MyAssets\Scripts\Player.cs" Line="33" Column="3" />
+      <File FileName="Assets\_MyAssets\Scripts\Obstacle.cs" Line="18" Column="50" />
+      <File FileName="Assets\_MyAssets\Scripts\ObstacleManager.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
